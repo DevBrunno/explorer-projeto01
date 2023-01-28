@@ -1,4 +1,5 @@
 # explorer-projeto01
-Primeiro projeto do explorer
 
-Projeto HTML seguindos as video aulas.
+Primeiro projeto HTML do explorer seguindos as video aulas.
+
+
